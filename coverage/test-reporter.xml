@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/home/vivien/Projects/ifri/couverture-de-code/src/tests/index.test.js">
+    <testCase name="Get Endpoints Get" duration="198"/>
+    <testCase name="Get Endpoints Get greating" duration="15"/>
+    <testCase name="Get Endpoints Get greating again" duration="17"/>
+  </file>
+</testExecutions>
